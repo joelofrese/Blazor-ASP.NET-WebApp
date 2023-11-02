@@ -2,7 +2,7 @@
 
 This is a simple TODO list application built using Blazor WebAssembly and ASP.NET. It allows you to manage your tasks, including adding new tasks, marking them as completed, updating task descriptions, and deleting tasks.
 
-\* Deployed to AWS Amplify [here]([https://jolo.dvw50fqzwmkj7.amplifyapp.com](https://main.d22ore334w98fr.amplifyapp.com/)), try it yourself!
+\* Deployed to AWS Amplify [here](https://main.d22ore334w98fr.amplifyapp.com), try it yourself!
 
 ![Demo Screenshot](https://github.com/joelofrese/Blazor-ASP.NET-WebApp/blob/main/Demo.png)
 
